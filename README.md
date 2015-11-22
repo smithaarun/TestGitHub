@@ -1,2 +1,2 @@
 # TestGitHub
-This is learning
+Github is a repository.
